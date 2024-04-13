@@ -22,5 +22,5 @@ Você pode acessar o portfólio online através deste link: [Meu Portfólio](htt
 Ou, se preferir, pode clonar este repositório e abrir o arquivo `index.html` no seu navegador localmente.
 
 ```bash
-git clone https://github.com/seunome/portfolio.git
+git clone https://github.com/ClaraCFS/portfolio-modelo1.git
 cd portfolio
