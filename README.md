@@ -17,7 +17,7 @@ Este é o meu portfólio pessoal, onde eu mostro alguns dos meus projetos e habi
 
 ## Como Visualizar
 
-Você pode acessar o portfólio online através deste link: [Meu Portfólio]([https://meuportfolio.com](https://claracfs.github.io/portifolio-modelo1/))
+Você pode acessar o portfólio online através deste link: [Meu Portfólio]([https://meuportfolio.com](https://claracfs.github.io/portifolio-modelo1/)
 
 Ou, se preferir, pode clonar este repositório e abrir o arquivo `index.html` no seu navegador localmente.
 
